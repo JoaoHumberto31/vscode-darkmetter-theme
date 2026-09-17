@@ -1,0 +1,21 @@
+{
+  "name": "Overrated",
+  "displayName": "Dark-metter",
+  "description": "A dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Metter",
+        "uiTheme": "hc-black",
+        "path": "./themes/Dark Metter-color-theme.json"
+      }
+    ]
+  }
+}
