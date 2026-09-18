@@ -9,6 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoHumberto31/vscode-darkmetter-theme.git"
+  },
+  "keywords": [
+    "dark",
+    "high dark"
+  ],
   "contributes": {
     "themes": [
       {
